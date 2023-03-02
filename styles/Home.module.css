@@ -5,6 +5,7 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-color: green;
 }
 
 .description {
@@ -136,6 +137,10 @@
   width: 200%;
   height: 200%;
   background: var(--tile-border);
+}
+
+.title {
+  font-size: 28px;
 }
 
 /* Inner Square */

@@ -1,0 +1,13 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #000;
+  }
+  
+.note {
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
